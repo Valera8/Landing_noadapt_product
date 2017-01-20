@@ -104,7 +104,13 @@ h3 {
 /*---End-pluses-------*/
 /*----screenshots----*/
 
+/*.screenshots {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display:table;*/
+/*}*/
 .screenshots-img {
+    border: 0; /* убрать рамку у ссылки <a></a> */
     width: 572px;
     float: left;
     margin-bottom: 30px;
