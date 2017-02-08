@@ -68,7 +68,7 @@ h2 {
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
-}/*-Для переноса слов. В html добавь lang. Работает в IE10, Firefox, Android и iOS. Chrome и Opera не поддерживают. Для них используй полуручной с использованием &shy;*/
+}/*-пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ. пїЅ html пїЅпїЅпїЅпїЅпїЅпїЅ lang. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ IE10, Firefox, Android пїЅ iOS. Chrome пїЅ Opera пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ &shy;*/
 .topic-text-top {
     margin-bottom: 18px;
 }
@@ -110,7 +110,7 @@ h3 {
     /*display:table;*/
 /*}*/
 .screenshots-img {
-    border: 0; /* убрать рамку у ссылки <a></a> */
+    border: 0; /* пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ <a></a> */
     width: 572px;
     float: left;
     margin-bottom: 30px;
@@ -337,5 +337,10 @@ h5 {
     font-family: "Arial", sans-serif;
     font-size: 12px;
     padding: 7px 0;
+}
+
+.error{
+    text-align: center;
+    color: red;
 }
 /*----------End------------*/

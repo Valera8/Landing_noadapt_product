@@ -1,0 +1,31 @@
+body {
+
+}
+h1 {
+    text-align: center;
+}
+#wrap {
+    width: 100%;
+    height: 100%;
+}
+.table {
+
+}
+.loginbox1, .loginbox2 {
+    text-align: center;
+    /*width: 300px;*/
+    padding: 4px;
+}
+.loginbox1 {
+    background-color: #777;
+    color: white;
+    font-weight: bold;
+}
+.loginbox2 {
+    color: #777;
+}
+.loginbox2 input {
+    /*width: 200px;*/
+    margin: 3px 0;
+    /*border-color: #888;*/
+}
